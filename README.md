@@ -7,9 +7,11 @@ Hello World 👋 I am Muskan Rajani
 ✨ **Java** ☕ | 🐍 **Python** ⚙️ | 🌐 **HTML** 🏷️ | 🎨 **CSS** 🖌️ | 📜 **JavaScript** 🚀 | 🌱 **Spring Boot** 🌿
 
 🎯 **Find me Interesting?**
+
 Say Hi to me on LinkedIn ❤️ [https://www.linkedin.com/in/muskan-rajani-95b0a6188/]
 
-**Interested in Collaboration?**  *(New heading)*
+**Interested in Collaboration?**  
+
 💌 muskanrajani20@gmail.com
 
 **About Me**
