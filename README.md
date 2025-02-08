@@ -1,9 +1,7 @@
 Hello World 👋 I am Muskan Rajani
 
 Welcome to my GitHub profile! Glad you're here. 😊
-
----  *(Divider)*
-
+<br />
 **Skills 🚀**
 
 ✨ **Java** ☕ | 🐍 **Python** ⚙️ | 🌐 **HTML** 🏷️ | 🎨 **CSS** 🖌️ | 📜 **JavaScript** 🚀 | 🌱 **Spring Boot** 🌿
