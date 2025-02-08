@@ -24,3 +24,5 @@ I am currently working at HSBC as an Software Engineer. 👾
 <br/>✨🔗 [https://muskanrajani.github.io/MyPortfolio/](https://muskanrajani.github.io/MyPortfolio/)
 
 ##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanRajani&layout=compact)
