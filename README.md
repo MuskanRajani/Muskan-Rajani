@@ -17,7 +17,7 @@ Interested in Collaboration?
 
 **About Me**
 
-I am currently working at HSBC as a software developer. 👾 
+I am currently working at HSBC as an Software Engineer. 👾 
 <br/>Most of my projects are available on Github. 😉
 
 **Portfolio**
