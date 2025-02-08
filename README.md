@@ -25,4 +25,4 @@ I am currently working at HSBC as an Software Engineer. 👾
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanRajani&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanRajani&layout=compact&theme=vision-dark)
