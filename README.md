@@ -17,10 +17,10 @@ Interested in Collaboration?
 
 **About Me**
 
-I am currently working at HSBC as a software developer. 👾 Most of my projects are available on Github. 😉
+I am currently working at HSBC as a software developer. 👾 
+Most of my projects are available on Github. 😉
 
 **Portfolio**
-
-✨🔗 [https://muskanrajani.github.io/MyPortfolio/](https://muskanrajani.github.io/MyPortfolio/)
+<br/>✨🔗 [https://muskanrajani.github.io/MyPortfolio/](https://muskanrajani.github.io/MyPortfolio/)
 
 ##
