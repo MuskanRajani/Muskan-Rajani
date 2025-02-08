@@ -6,11 +6,14 @@ Welcome to my GitHub profile! Glad you're here. 😊
 
 ✨ **Java** ☕ | 🐍 **Python** ⚙️ | 🌐 **HTML** 🏷️ | 🎨 **CSS** 🖌️ | 📜 **JavaScript** 🚀 | 🌱 **Spring Boot** 🌿
 
+##
 **Let's Connect!**
 
-Say Hi on LinkedIn ❤️ [https://www.linkedin.com/in/muskan-rajani-95b0a6188/](https://www.linkedin.com/in/muskan-rajani-95b0a6188/)
+Say Hi on LinkedIn ❤️ 
+<br/>[https://www.linkedin.com/in/muskan-rajani-95b0a6188/](https://www.linkedin.com/in/muskan-rajani-95b0a6188/)
 
-Interested in Collaboration?  💌 muskanrajani20@gmail.com
+Interested in Collaboration? 
+<br/>💌 muskanrajani20@gmail.com
 
 **About Me**
 
